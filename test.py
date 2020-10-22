@@ -1,3 +1,3 @@
-print << "Final Test"
-print << "hello"
-print << "hello"
+print("Final Test")
+print("hello")
+print("hello")
